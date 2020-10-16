@@ -1,16 +1,11 @@
 # mycollegecompanion
 
-A new Flutter project.
+A new Flutter project with basic firebase operations like create, read, update and delete(CRUD).
 
-## Getting Started
+## Database: Cloud Firestore
 
-This project is a starting point for a Flutter application.
+## Screenshots:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20201016-125559](https://user-images.githubusercontent.com/70506653/96225688-17ec7d00-0faf-11eb-9559-d8add9a9fbd5.jpg)
+![Screenshot_20201016-125325](https://user-images.githubusercontent.com/70506653/96225693-191daa00-0faf-11eb-932d-f85a6032fa6c.jpg)
+![Screenshot_20201016-125340](https://user-images.githubusercontent.com/70506653/96225695-19b64080-0faf-11eb-8c57-3b23e0ac3e2d.jpg)
